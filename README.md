@@ -1,4 +1,4 @@
-eeeeeeeee# pog
+# pog
  
 # ta aplikacja posiada
 ```
