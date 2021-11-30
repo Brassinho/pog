@@ -1,6 +1,6 @@
-# pog
+eeeeeeeee# pog
  
 # ta aplikacja posiada
 ```
 aktualny czas
-```e
+```
