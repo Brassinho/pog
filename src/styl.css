@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches&display=swap');
+body {
+position: absolute;
+  padding: 100px;
+  border: 40px;
+border:10px;
+top: 50%;
+left: 50%;
+font-size: 300px;
+text-align: center;
+margin: 10px auto;
+color: rgb(27, 141, 141);
+border: 80px ridge red;
+box-shadow: 50px 50px 50px rgb(240, 107, 107);
+transform: translate(-50%, -50%);
+background-color: rgb(124, 10, 10);
+};
